@@ -6,5 +6,12 @@ as as an argument.
 
 Example:
 
->>python remove_track_number.py “/Users/user_name/Music/iTunes/iTunes
-Media/Music/Gin Wigmore/Gravel And Wine”
+    >>python remove_track_number.py “/Users/user_name/Music/iTunes/iTunes Media/Music/Gin Wigmore/Gravel And Wine”
+    
+Result:
+
+01 Black Sheep.mp3 --> Black Sheep.mp3
+
+(for Jamie xx):
+
+03 SeeSaw (Featuring – Romy Madley Croft).mp3 --> SeeSaw.mp3
