@@ -6,7 +6,7 @@ as as an argument.
 
 Example:
 
-    >>python remove_track_number.py “/Users/user_name/Music/iTunes/iTunes Media/Music/Gin Wigmore/Gravel And Wine”
+    python remove_track_number.py “/Users/user_name/Music/iTunes/iTunes Media/Music/Gin Wigmore/Gravel And Wine”
     
 Result:
 
